@@ -1,0 +1,7 @@
+C:\Users\Marco\source\repos\guia4\guia4\bin\Debug\guia4.exe.config
+C:\Users\Marco\source\repos\guia4\guia4\bin\Debug\guia4.exe
+C:\Users\Marco\source\repos\guia4\guia4\bin\Debug\guia4.pdb
+C:\Users\Marco\source\repos\guia4\guia4\obj\Debug\guia4.csprojAssemblyReference.cache
+C:\Users\Marco\source\repos\guia4\guia4\obj\Debug\guia4.csproj.CoreCompileInputs.cache
+C:\Users\Marco\source\repos\guia4\guia4\obj\Debug\guia4.exe
+C:\Users\Marco\source\repos\guia4\guia4\obj\Debug\guia4.pdb
